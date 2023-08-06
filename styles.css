@@ -1,0 +1,67 @@
+/* Navbar styles */
+.navbar {
+    background-color: #343a40; /* Warna hitam */
+    padding: 1rem;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffc107; /* Warna kuning */
+}
+
+/* Card styles */
+.card {
+    margin-bottom: 1rem;
+    border: 1px solid #dee2e6; /* Warna abu-abu muda */
+}
+
+.card-title {
+    font-size: 20px;
+    margin-bottom: 0.5rem;
+    color: #343a40; /* Warna hitam */
+}
+
+.card-text {
+    font-size: 16px;
+    color: #6c757d; /* Warna abu-abu */
+}
+
+/* Button styles */
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    padding: 0.5rem 1rem;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+/* Added styles for Merchandise option */
+.merchandise-option {
+    font-size: 14px;
+    color: #28a745; /* Warna hijau */
+}
+
+/* Card styles */
+.card {
+    margin-bottom: 1rem;
+    border: 1px solid #e0e0e0; /* Warna abu-abu lebih tenang */
+    background-color: #f9f9f9; /* Warna abu-abu yang lebih terang */
+}
+
+.card-title {
+    font-size: 20px;
+    margin-bottom: 0.5rem;
+    color: #333; /* Warna hitam lebih gelap */
+}
+
+.card-text {
+    font-size: 16px;
+    color: #555; /* Warna abu-abu yang lebih gelap */
+}
